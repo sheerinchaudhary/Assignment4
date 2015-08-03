@@ -1,0 +1,294 @@
+Enter the person's three credit scores
+800 700 320
+this group is valid
+The credit scores are going steadily downward
+1 is below average
+0 average
+1 is above average
+1 is excellent
+Type y to continue and n to stop: 
+y
+
+
+Enter the person's three credit scores
+900 900 510
+900 is invalid
+900 is invalid
+this group is invalid
+Type y to continue and n to stop: 
+y
+
+
+Enter the person's three credit scores
+399 502 500
+this group is valid
+The credit scores first went up, then went down
+1 is below average
+1 average
+1 is above average
+0 is excellent
+Type y to continue and n to stop: 
+y
+
+
+Enter the person's three credit scores
+800 500 650
+this group is valid
+The credit scores first went down, then went up
+0 is below average
+1 average
+1 is above average
+1 is excellent
+Type y to continue and n to stop: 
+y
+
+
+Enter the person's three credit scores
+150 300 80
+150 is invalid
+80 is invalid
+this group is invalid
+Type y to continue and n to stop: 
+y
+
+
+Enter the person's three credit scores
+850 770 770
+this group is valid
+There are two consecutive credit scores that are the same and the other value is smaller or larger than the both
+0 is below average
+0 average
+0 is above average
+3 is excellent
+Type y to continue and n to stop: 
+y
+
+
+Enter the person's three credit scores
+-60 350 800
+-60 is invalid
+this group is invalid
+Type y to continue and n to stop: 
+y
+
+
+Enter the person's three credit scores
+490 550 845
+this group is valid
+All the credit scores are going steadily upward
+1 is below average
+0 average
+1 is above average
+1 is excellent
+Type y to continue and n to stop: 
+y
+
+
+Enter the person's three credit scores
+700 500 500
+this group is valid
+There are two consecutive credit scores that are the same and the other value is smaller or larger than the both
+0 is below average
+2 average
+1 is above average
+0 is excellent
+Type y to continue and n to stop: 
+y
+
+
+Enter the person's three credit scores
+310 500 600
+this group is valid
+All the credit scores are going steadily upward
+1 is below average
+1 average
+1 is above average
+0 is excellent
+Type y to continue and n to stop: 
+y
+
+
+Enter the person's three credit scores
+790 703 690
+this group is valid
+The credit scores are going steadily downward
+0 is below average
+0 average
+1 is above average
+2 is excellent
+Type y to continue and n to stop: 
+y
+
+
+Enter the person's three credit scores
+301 301 522
+this group is valid
+There are two consecutive credit scores that are the same and the other value is smaller or larger than the both
+2 is below average
+0 average
+1 is above average
+0 is excellent
+Type y to continue and n to stop: 
+y
+
+
+Enter the person's three credit scores
+500 890 280
+890 is invalid
+280 is invalid
+this group is invalid
+Type y to continue and n to stop: 
+y
+
+
+Enter the person's three credit scores
+555 555 555
+this group is valid
+All three credit scores were the same
+0 is below average
+0 average
+3 is above average
+0 is excellent
+Type y to continue and n to stop: 
+y
+
+
+Enter the person's three credit scores
+635 545 660
+this group is valid
+The credit scores first went down, then went up
+0 is below average
+0 average
+3 is above average
+0 is excellent
+Type y to continue and n to stop: 
+y
+
+
+Enter the person's three credit scores
+500 399 500
+this group is valid
+The credit scores first went down, then went up
+1 is below average
+2 average
+0 is above average
+0 is excellent
+Type y to continue and n to stop: 
+y
+
+
+Enter the person's three credit scores
+910 180 150
+910 is invalid
+180 is invalid
+150 is invalid
+this group is invalid
+Type y to continue and n to stop: 
+y
+
+
+Enter the person's three credit scores
+500 500 500
+this group is valid
+All three credit scores were the same
+0 is below average
+3 average
+0 is above average
+0 is excellent
+Type y to continue and n to stop: 
+y
+
+
+Enter the person's three credit scores
+300 710 790
+this group is valid
+All the credit scores are going steadily upward
+1 is below average
+0 average
+0 is above average
+2 is excellent
+Type y to continue and n to stop: 
+y
+
+
+Enter the person's three credit scores
+380 299 710
+299 is invalid
+this group is invalid
+Type y to continue and n to stop: 
+y
+
+
+Enter the person's three credit scores
+600 850 850
+this group is valid
+There are two consecutive credit scores that are the same and the other value is smaller or larger than the both
+0 is below average
+0 average
+1 is above average
+2 is excellent
+Type y to continue and n to stop: 
+y
+
+
+Enter the person's three credit scores
+160 160 160
+160 is invalid
+160 is invalid
+160 is invalid
+this group is invalid
+Type y to continue and n to stop: 
+y
+
+
+Enter the person's three credit scores
+835 835 835
+this group is valid
+All three credit scores were the same
+0 is below average
+0 average
+0 is above average
+3 is excellent
+Type y to continue and n to stop: 
+y
+
+
+Enter the person's three credit scores
+450 310 380
+this group is valid
+The credit scores first went down, then went up
+3 is below average
+0 average
+0 is above average
+0 is excellent
+Type y to continue and n to stop: 
+y
+
+
+Enter the person's three credit scores
+710 650 510
+this group is valid
+The credit scores are going steadily downward
+0 is below average
+0 average
+2 is above average
+1 is excellent
+Type y to continue and n to stop: 
+y
+
+
+Enter the person's three credit scores
+450 610 370
+this group is valid
+The credit scores first went up, then went down
+2 is below average
+0 average
+1 is above average
+0 is excellent
+Type y to continue and n to stop: 
+n
+
+
+There are 26 groups in this program
+There are 19 valid groups
+There are 7 invalid groups
